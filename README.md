@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://github.com/simoneburch/osticket-post-install-config/assets/152559137/8199d9b7-c043-4bd4-ab33-03d88bc01756" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
