@@ -16,7 +16,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Installation Configuration Steps</h2>
 
 - Configure Roles, Departments, and Teams
 - Configure Agents and Users
