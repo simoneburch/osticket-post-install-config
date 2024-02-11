@@ -64,3 +64,8 @@ Finally, I updated the Help topics to ensure we had a baseline to help users wit
 
 </p>
 <br />
+
+<h2>End of Post-Installation Configuration</h2>
+
+***Continue with *osTicket - Ticket Lifecycle Examples* in the next tutorial**
+
